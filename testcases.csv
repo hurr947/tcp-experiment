@@ -1,0 +1,9 @@
+TestCaseID,Component,Priority,Fault
+TC1,Login,High,Yes
+TC2,Payment,High,Yes
+TC3,Search,Medium,No
+TC4,Profile,Low,No
+TC5,Security,High,Yes
+TC6,Checkout,Medium,No
+TC7,Authentication,High,Yes
+TC8,Settings,Low,No
